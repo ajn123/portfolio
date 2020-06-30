@@ -21,6 +21,7 @@ email: alex.norton.dev@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: ajn123
+youtube_username: AppleJuiceScholars
 codepen_username: 
 dev_username:
 linkedin_username:
@@ -34,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I want to help the world grow as well as learn.
+about_me_description: I'm a Freelnace Web Developer, primarily in Rails, React, and Vue.  If you like learning programming check out my Youtube channel below.  Want to work together?  Send me an email.  I offer Website Development, Video creation, and computer science tutoring.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: 
+contact_description: Want to work together?  Send me an email.
 
 # GITHUB-METADATA
 # Set this to your forked repository

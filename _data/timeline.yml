@@ -26,10 +26,10 @@
     - tag: Javascript
     - tag: Ruby
     - tag: Rails
-  timeline-side: right
+  timeline-side: left
 
 - title: IBM
-  title-url: https://example.com/
+  title-url: https://www.ibm.com/us-en/?ar=1
   date: Jan 2018 - May 2019
   subtitle: Mobile Software Engineer
   tags:
@@ -42,13 +42,30 @@
   date: May 2014 - Aug 2014
   subtitle: Software Developer as Intern
   tags:
-    - tag: React
+    - tag: Eclipse
     - tag: Node
     - tag: Javascript
+  timeline-side: left
+
+
+- title: Youtube Channel
+  title-url: https://www.youtube.com/c/AppleJuiceTeaching
+  date: 2012 - Present
+  subtitle: Videos dedicated to learning Computer Science and Web Development 
+  tags:
+    - tag: Java
+    - tag: Data Structures
+    - tag: Rails
   timeline-side: right
 
+
 - title: Virginia Tech
-  title-url: https://example.com/
+  title-url: https://vt.edu/ 
   date: 2011 - 2014
-  subtitle: B.A. Computer Science
+  subtitle: B.A. Computer Science with Math minor
+  tags:
+    - tag: Java
+    - tag: C
+    - tag: Linux
+    - tag: Bash
   timeline-side: left

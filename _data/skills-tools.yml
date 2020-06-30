@@ -8,7 +8,10 @@
 - name: Git
   weight: 5
 
-- name: Bash/Zsh
+- name: Bash
+  weight: 3
+
+- name: Zsh
   weight: 3
 
 - name: Travis CI
