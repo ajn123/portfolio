@@ -8,29 +8,17 @@
 - name: Git
   weight: 5
 
-- name: Bash
-  weight: 3
-
-- name: Scrum
+- name: Bash/Zsh
   weight: 3
 
 - name: Travis CI
   weight: 1
 
-- name: Jenkins
+- name: Yarn
   weight: 1
-
-- name: Chrome DevTools
-  weight: 2
 
 - name: npm
   weight: 2
 
-- name: gulp
-  weight: 4
-
-- name: VS Code
-  weight: 3
-
-- name: Postman
+- name: Vim
   weight: 4

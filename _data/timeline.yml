@@ -17,45 +17,38 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
+- title: Thorougcare
+  title-url: https://www.thoroughcare.net/
+  date: July 2019 - Feb 2020
   subtitle: Fullstack Developer
   tags:
-    - tag: React
+    - tag: Vue
     - tag: Javascript
     - tag: Ruby
     - tag: Rails
   timeline-side: right
 
-- title: Google
+- title: IBM
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: Jan 2018 - May 2019
+  subtitle: Mobile Software Engineer
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: iOS
+    - tag: Swift
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Amazon Software Intern
+  title-url: https://amazon.com/
+  date: May 2014 - Aug 2014
+  subtitle: Software Developer as Intern
   tags:
     - tag: React
     - tag: Node
     - tag: Javascript
   timeline-side: right
 
-- title: Super University
+- title: Virginia Tech
   title-url: https://example.com/
-  date: 2014 - 2017
+  date: 2011 - 2014
   subtitle: B.A. Computer Science
   timeline-side: left
