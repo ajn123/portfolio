@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a Freelnace Web Developer, primarily in Rails, React, and Vue.  If you like learning programming check out my Youtube channel below.  Want to work together?  Send me an email.  I offer Website Development, Video creation, and computer science tutoring.
+about_me_description: I'm a Freelance Web Developer, primarily in Rails, React, and Vue.  If you like learning programming check out my Youtube channel below.  Want to work together?  Send me an email.  I offer Website Development, Video creation, and computer science tutoring.
 
 # SKILLS SECTION
 # show_skills_card:
